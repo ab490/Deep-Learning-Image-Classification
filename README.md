@@ -67,21 +67,6 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
     autoencoder, plot the inputs as images that maximally activate each of the 
     neurons of the hidden representations (plot of weights from the input layer to the 
     compressed layer).<br>
-    </ol>
-    b. Develop a denoising autoencoder with 20% noise and 40% noise for the best one-hidden 
-    layer autoencoder architecture from Task 2.a.i. Follow the concepts discussed in the 
-    class to corrupt the inputs on the fly during training. 
-    <ol>
-    i. Take the same images used in Task 2.a.ii. and give their reconstructed 
-    images<br>
-    ii. Give the classification accuracy for classification using the compressed 
-    representation. Compare their performance with that of the corresponding vanilla
-    autoencoder from Task 2.a.iii. <br>
-    iii. Weight visualization: Plot the inputs as images that maximally activate each of 
-    the neurons of the hidden representations obtained using both the denoising 
-    autoencoders (plot of weights from the input layer to the compressed layer). 
-    Compare it with that of the images obtained in Task 2.a.v.<br>
-    </ol>
   </ol>
  
 </ol>
