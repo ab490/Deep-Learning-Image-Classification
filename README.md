@@ -6,8 +6,7 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
 <ol>
   <li><strong>Task based on different optimizers:-</strong></li>
   <ol>
-   a. Develop an FCNN with 3 hidden layers. Use cross-entropy loss. Experiment with
-   different a number of nodes in each of the layers. Train each of the architectures using 
+   a. Develop an FCNN with 3 hidden layers. Use cross-entropy loss. Train each of the architectures using 
    (a) stochastic gradient descent (SGD) algorithm - (batch_size=1), (b) batch gradient 
    descent algorithm (vanilla gradient descent) – (batch_size=total number of training 
    examples), (c) SGD with momentum (NAG) – (batch_size=32), (d) RMSProp 
