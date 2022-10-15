@@ -18,7 +18,7 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
    <ol>
    i. Observe the number of epochs considered for convergence for each of the 
    architectures. Tabulate and compare the number of epochs considered by each of 
-   the optimizers for each architecture.<br>
+   the optimizers.<br>
    ii. Present the plots of average training error (y-axis) vs. epochs (x-axis). <br>
    iii. Give the training accuracy and validation accuracy for each of the optimizers in 
    each of the architectures.<br>
