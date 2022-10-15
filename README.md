@@ -41,12 +41,10 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
    <ol>
    i. Build autoencoders with one hidden layer and 3 hidden layer architectures. For 
    each architecture, experiment with a different number of neurons in hidden 
-   layers including the compressed layer. Present the mean squared error (MSE) 
-   i.e., the average reconstruction error for training data as well as validation data 
-   for each of the architectures.<br>
+   layers including the compressed layer. Present the average reconstruction error for training data for each of the architectures.<br>
    ii. Choose the best architecture for (a) encoder with one hidden layer
    (b) encoder with 3 hidden layer architectures based on validation error. Give the test reconstruction error for the chosen best architectures.<br>
-   iii. Present the plots of average training reconstruction error (y-axis) vs. epochs (xaxis) for the best architecture for (a) encoder with one hidden layer and (b) 
+   iii. Present the plots of average training reconstruction error (y-axis) vs. epochs (x-axis) for the best architecture for (a) encoder with one hidden layer and (b) 
    encoder with 3 hidden layer architectures. <br>
    iv. Take one image from the training set and one image for the validation set, from 
    each of the classes, and give their reconstructed images for each of the experiments.<br>
