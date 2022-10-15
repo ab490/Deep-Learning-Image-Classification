@@ -54,19 +54,11 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
       save the output of the hidden layer (compressed layer). This gives the 
       compressed representation of training data. Similarly obtain the 
       compressed representation of validation and test data. <br>
-      • Build the FCNN using Adam optimizer for classification. Experiment
-      with the different number of hidden layers and the different number of 
-      neurons in each hidden layer. Select the best architecture based on 
-      validation accuracy. Report the train, validation & test accuracy along 
-      with the confusion matrix and compare the results with the best result 
-      from Task 1. <br>
+      • Build the FCNN using Adam optimizer for classification. Report the training and validation accuracy along 
+      with the confusion matrix. <br>
    </ol>
     vi. Classification using the compressed representation from the encoder with 3
     hidden layers: Repeat the experiments as described in previous question(Task 2.a.iii)<br>
-    vii. Weight visualization: For the best compressed representation in one hidden layer
-    autoencoder, plot the inputs as images that maximally activate each of the 
-    neurons of the hidden representations (plot of weights from the input layer to the 
-    compressed layer).<br>
   </ol>
  
 </ol>
