@@ -58,7 +58,7 @@ Task 2 includes building an autoencoder to obtain the hidden representation and 
       with the confusion matrix. <br>
    </ol>
     vi. Classification using the compressed representation from the encoder with 3
-    hidden layers: Repeat the experiments as described in previous question(Task 2.a.iii)<br>
+    hidden layers: Repeat the experiments as described in previous question (Task 2.a.iii)<br>
   </ol>
  
 </ol>
